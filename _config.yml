@@ -1,5 +1,5 @@
 name: "Quils in Space"
-pygments: true
+highlighter: true
 markdown: kramdown
 exclude:
 - node_modules
