@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Equals Infinity</title>
+ <title>x divided by zero</title>
  <link href="http://diegoleite.me/atom.xml" rel="self"/>
  <link href="http://diegoleite.me/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
