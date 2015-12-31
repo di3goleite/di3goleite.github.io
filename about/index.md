@@ -1,6 +1,6 @@
 ---
 layout: default
-title: x divided by zero
+title: About
 ---
 
 <div class="textual-content">
