@@ -1,12 +1,12 @@
 ---
 layout: default
-title: About Quil
+title: x divided by zero
 ---
 
 <div class="textual-content">
-<p>Quil is an online entity that rants a lot on the Internets. It is also said that she's a cat-lady witch, devotee of lolita and cuteness. What a fearsome person!</p>
+<p>This is an space for me discuss and spread my ideias. You are welcome to contribute here, in comments section. :P</p>
 
-<img src="/about/quil.png">
+<img src="/about/diego.jpg">
 
 <br>
 
@@ -15,3 +15,4 @@ title: About Quil
 <p>Maybe.</p>
 </blockquote>
 </div>
+

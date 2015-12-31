@@ -1,0 +1,175 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/nodejs', '/usr/bin/npm', 'install' ]
+2 info using npm@1.4.21
+3 info using node@v0.10.25
+4 verbose readDependencies using package.json deps
+5 verbose install where, deps [ '/home/diego/workspace/di3goleite.github.io',
+5 verbose install   [ 'entypo-stylus', 'jumper-skirt', 'nib', 'stylus', 'browserify' ] ]
+6 info preinstall sorellas-basement@0.0.0
+7 verbose readDependencies using package.json deps
+8 verbose cache add [ 'jumper-skirt@~0.1.0', null ]
+9 verbose cache add name=undefined spec="jumper-skirt@~0.1.0" args=["jumper-skirt@~0.1.0",null]
+10 verbose parsed url { protocol: null,
+10 verbose parsed url   slashes: null,
+10 verbose parsed url   auth: null,
+10 verbose parsed url   host: null,
+10 verbose parsed url   port: null,
+10 verbose parsed url   hostname: null,
+10 verbose parsed url   hash: null,
+10 verbose parsed url   search: null,
+10 verbose parsed url   query: null,
+10 verbose parsed url   pathname: 'jumper-skirt@~0.1.0',
+10 verbose parsed url   path: 'jumper-skirt@~0.1.0',
+10 verbose parsed url   href: 'jumper-skirt@~0.1.0' }
+11 verbose cache add [ 'stylus@^0.42.3', null ]
+12 verbose cache add name=undefined spec="stylus@^0.42.3" args=["stylus@^0.42.3",null]
+13 verbose parsed url { protocol: null,
+13 verbose parsed url   slashes: null,
+13 verbose parsed url   auth: null,
+13 verbose parsed url   host: null,
+13 verbose parsed url   port: null,
+13 verbose parsed url   hostname: null,
+13 verbose parsed url   hash: null,
+13 verbose parsed url   search: null,
+13 verbose parsed url   query: null,
+13 verbose parsed url   pathname: 'stylus@^0.42.3',
+13 verbose parsed url   path: 'stylus@^0.42.3',
+13 verbose parsed url   href: 'stylus@^0.42.3' }
+14 verbose cache add [ 'nib@~0.9.1', null ]
+15 verbose cache add name=undefined spec="nib@~0.9.1" args=["nib@~0.9.1",null]
+16 verbose parsed url { protocol: null,
+16 verbose parsed url   slashes: null,
+16 verbose parsed url   auth: null,
+16 verbose parsed url   host: null,
+16 verbose parsed url   port: null,
+16 verbose parsed url   hostname: null,
+16 verbose parsed url   hash: null,
+16 verbose parsed url   search: null,
+16 verbose parsed url   query: null,
+16 verbose parsed url   pathname: 'nib@~0.9.1',
+16 verbose parsed url   path: 'nib@~0.9.1',
+16 verbose parsed url   href: 'nib@~0.9.1' }
+17 verbose cache add name="jumper-skirt" spec="~0.1.0" args=["jumper-skirt","~0.1.0"]
+18 verbose parsed url { protocol: null,
+18 verbose parsed url   slashes: null,
+18 verbose parsed url   auth: null,
+18 verbose parsed url   host: null,
+18 verbose parsed url   port: null,
+18 verbose parsed url   hostname: null,
+18 verbose parsed url   hash: null,
+18 verbose parsed url   search: null,
+18 verbose parsed url   query: null,
+18 verbose parsed url   pathname: '~0.1.0',
+18 verbose parsed url   path: '~0.1.0',
+18 verbose parsed url   href: '~0.1.0' }
+19 verbose addNamed [ 'jumper-skirt', '~0.1.0' ]
+20 verbose addNamed [ null, '>=0.1.0-0 <0.2.0-0' ]
+21 verbose cache add name="stylus" spec="^0.42.3" args=["stylus","^0.42.3"]
+22 verbose parsed url { protocol: null,
+22 verbose parsed url   slashes: null,
+22 verbose parsed url   auth: null,
+22 verbose parsed url   host: null,
+22 verbose parsed url   port: null,
+22 verbose parsed url   hostname: null,
+22 verbose parsed url   hash: null,
+22 verbose parsed url   search: null,
+22 verbose parsed url   query: null,
+22 verbose parsed url   pathname: '^0.42.3',
+22 verbose parsed url   path: '^0.42.3',
+22 verbose parsed url   href: '^0.42.3' }
+23 verbose addNamed [ 'stylus', '^0.42.3' ]
+24 verbose addNamed [ null, '>=0.42.3-0 <0.43.0-0' ]
+25 verbose cache add name="nib" spec="~0.9.1" args=["nib","~0.9.1"]
+26 verbose parsed url { protocol: null,
+26 verbose parsed url   slashes: null,
+26 verbose parsed url   auth: null,
+26 verbose parsed url   host: null,
+26 verbose parsed url   port: null,
+26 verbose parsed url   hostname: null,
+26 verbose parsed url   hash: null,
+26 verbose parsed url   search: null,
+26 verbose parsed url   query: null,
+26 verbose parsed url   pathname: '~0.9.1',
+26 verbose parsed url   path: '~0.9.1',
+26 verbose parsed url   href: '~0.9.1' }
+27 verbose addNamed [ 'nib', '~0.9.1' ]
+28 verbose addNamed [ null, '>=0.9.1-0 <0.10.0-0' ]
+29 verbose cache add [ 'browserify@~2.17.3', null ]
+30 verbose cache add name=undefined spec="browserify@~2.17.3" args=["browserify@~2.17.3",null]
+31 verbose parsed url { protocol: null,
+31 verbose parsed url   slashes: null,
+31 verbose parsed url   auth: null,
+31 verbose parsed url   host: null,
+31 verbose parsed url   port: null,
+31 verbose parsed url   hostname: null,
+31 verbose parsed url   hash: null,
+31 verbose parsed url   search: null,
+31 verbose parsed url   query: null,
+31 verbose parsed url   pathname: 'browserify@~2.17.3',
+31 verbose parsed url   path: 'browserify@~2.17.3',
+31 verbose parsed url   href: 'browserify@~2.17.3' }
+32 verbose cache add [ 'entypo-stylus@~0.1.0', null ]
+33 verbose cache add name=undefined spec="entypo-stylus@~0.1.0" args=["entypo-stylus@~0.1.0",null]
+34 verbose parsed url { protocol: null,
+34 verbose parsed url   slashes: null,
+34 verbose parsed url   auth: null,
+34 verbose parsed url   host: null,
+34 verbose parsed url   port: null,
+34 verbose parsed url   hostname: null,
+34 verbose parsed url   hash: null,
+34 verbose parsed url   search: null,
+34 verbose parsed url   query: null,
+34 verbose parsed url   pathname: 'entypo-stylus@~0.1.0',
+34 verbose parsed url   path: 'entypo-stylus@~0.1.0',
+34 verbose parsed url   href: 'entypo-stylus@~0.1.0' }
+35 verbose cache add name="browserify" spec="~2.17.3" args=["browserify","~2.17.3"]
+36 verbose parsed url { protocol: null,
+36 verbose parsed url   slashes: null,
+36 verbose parsed url   auth: null,
+36 verbose parsed url   host: null,
+36 verbose parsed url   port: null,
+36 verbose parsed url   hostname: null,
+36 verbose parsed url   hash: null,
+36 verbose parsed url   search: null,
+36 verbose parsed url   query: null,
+36 verbose parsed url   pathname: '~2.17.3',
+36 verbose parsed url   path: '~2.17.3',
+36 verbose parsed url   href: '~2.17.3' }
+37 verbose addNamed [ 'browserify', '~2.17.3' ]
+38 verbose addNamed [ null, '>=2.17.3-0 <2.18.0-0' ]
+39 silly lockFile d931159b-browserify-2-17-3 browserify@~2.17.3
+40 verbose lock browserify@~2.17.3 /home/diego/.npm/d931159b-browserify-2-17-3.lock
+41 verbose cache add name="entypo-stylus" spec="~0.1.0" args=["entypo-stylus","~0.1.0"]
+42 verbose parsed url { protocol: null,
+42 verbose parsed url   slashes: null,
+42 verbose parsed url   auth: null,
+42 verbose parsed url   host: null,
+42 verbose parsed url   port: null,
+42 verbose parsed url   hostname: null,
+42 verbose parsed url   hash: null,
+42 verbose parsed url   search: null,
+42 verbose parsed url   query: null,
+42 verbose parsed url   pathname: '~0.1.0',
+42 verbose parsed url   path: '~0.1.0',
+42 verbose parsed url   href: '~0.1.0' }
+43 verbose addNamed [ 'entypo-stylus', '~0.1.0' ]
+44 verbose addNamed [ null, '>=0.1.0-0 <0.2.0-0' ]
+45 silly lockFile 522cdd15-entypo-stylus-0-1-0 entypo-stylus@~0.1.0
+46 verbose lock entypo-stylus@~0.1.0 /home/diego/.npm/522cdd15-entypo-stylus-0-1-0.lock
+47 silly lockFile d931159b-browserify-2-17-3 browserify@~2.17.3
+48 error Error: Attempt to unlock browserify@~2.17.3, which hasn't been locked
+48 error     at unlock (/usr/share/npm/lib/utils/locker.js:44:11)
+48 error     at cb (/usr/share/npm/lib/cache/add-named.js:32:5)
+48 error     at /usr/share/npm/lib/cache/add-named.js:41:20
+48 error     at /usr/share/npm/lib/utils/locker.js:30:7
+48 error     at /usr/lib/nodejs/lockfile.js:161:38
+48 error     at Object.oncomplete (fs.js:107:15)
+49 error If you need help, you may report this *entire* log,
+49 error including the npm and node versions, at:
+49 error     <http://github.com/npm/npm/issues>
+50 error System Linux 4.2.0-22-generic
+51 error command "/usr/bin/nodejs" "/usr/bin/npm" "install"
+52 error cwd /home/diego/workspace/di3goleite.github.io
+53 error node -v v0.10.25
+54 error npm -v 1.4.21
+55 verbose exit [ 1, true ]

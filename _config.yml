@@ -1,5 +1,6 @@
-name: "Quils in Space"
+name: "x divided by zero"
 highlighter: true
+comments: true
 markdown: kramdown
 exclude:
 - node_modules

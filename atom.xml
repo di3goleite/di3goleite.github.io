@@ -1,26 +1,23 @@
----
-layout: nil
----
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- 
- <title>Sorella's Basement</title>
- <link href="http://robotlolita.me/atom.xml" rel="self"/>
- <link href="http://robotlolita.me/"/>
+
+ <title>Equals Infinity</title>
+ <link href="http://diegoleite.me/atom.xml" rel="self"/>
+ <link href="http://diegoleite.me/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://robotlolita.me/</id>
+ <id>http://diegoleite.me/</id>
  <author>
-   <name>Quildreen Motta</name>
+   <name>Diego Leite</name>
  </author>
 
  {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="http://robotlolita.me{{ post.url }}"/>
+   <link href="http://diegoleite.me{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://robotlolita.me{{ post.id }}</id>
+   <id>http://diegoleite.me{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endfor %}
- 
+
 </feed>
