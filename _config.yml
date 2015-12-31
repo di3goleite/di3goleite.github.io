@@ -1,5 +1,5 @@
 name: "x divided by zero"
-highlighter: true
+highlighter: pygments
 comments: true
 markdown: kramdown
 exclude:
