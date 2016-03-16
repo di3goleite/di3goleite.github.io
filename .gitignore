@@ -2,3 +2,4 @@ node_modules/
 _site/
 *.tern-port
 examples/promises/aplus/lib/
+*.swp

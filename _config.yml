@@ -1,4 +1,8 @@
 name: "x divided by zero"
+description: # add some text here
+url: http://diegoleite.me
+baseurl: 
+
 highlighter: pygments
 comments: true
 markdown: kramdown
