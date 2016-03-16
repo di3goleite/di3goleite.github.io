@@ -3,7 +3,7 @@ description: This is an space for me discuss and spread my ideias. You are welco
 url: http://diegoleite.me
 baseurl: 
 
-highlighter: pygments
+highlighter: rouge
 comments: true
 markdown: kramdown
 exclude:
